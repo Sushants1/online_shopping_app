@@ -11,10 +11,7 @@
     --footer-hover: #000000;
 }
 
-body {
-    background-color: var(--dark-bg) !important;
-    color: var(--text-primary) !important;
-}
+
 
 .bg-light {
     background-color: var(--dark-surface) !important;
