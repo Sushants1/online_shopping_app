@@ -5,6 +5,7 @@ services:
   online_shop:
     build:
       context: .
+      image: online_shop:latest
     container_name: online_shop
     ports:
       - "5173:5173"
