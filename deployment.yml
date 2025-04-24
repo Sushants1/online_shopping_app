@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: sushants1/shopping-app:latest
+        image: harsh1/shopping-app:latest
         ports:
         - containerPort: 5173
         resources:
