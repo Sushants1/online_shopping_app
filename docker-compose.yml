@@ -1,4 +1,5 @@
 version: "3.8"
+
 services:
   online_shop:
     image: sushants1/shopping-app:latest
